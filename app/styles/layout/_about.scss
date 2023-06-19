@@ -1,0 +1,18 @@
+@media (max-width: 1200px) {
+    .text-container {
+        width: 100%;
+        text-align: center;
+    }
+
+    .about-section {
+        height: auto;
+    }
+    .about-section .row {
+        flex-direction: column;
+    }
+
+    .about-section .row .card {
+        margin: 15px 0;
+        min-width: 90%;
+    }
+}

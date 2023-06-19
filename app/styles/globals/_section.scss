@@ -1,0 +1,25 @@
+.section {
+    margin-bottom: var(--section-padding);
+    width: 100%;
+    height: 100vh;
+}
+
+.section-title h1 {
+    font-family: var(--main-font);
+    text-align: center;
+    color: var(--bg-color);
+    font-size: 45px;
+    text-shadow: -1px -1px 3px var(--buttons-color),
+        2px 2px 4px var(--buttons-color);
+}
+
+.section-title p {
+    font-family: var(--main-font);
+    text-align: center;
+    margin-top: -48px;
+    letter-spacing: -2px;
+    font-size: 25px;
+    color: #fff;
+    text-shadow: 3px 3px 20px var(--buttons-color),
+        -2px 1px 30px var(--buttons-color);
+}

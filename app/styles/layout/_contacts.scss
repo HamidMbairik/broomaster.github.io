@@ -1,0 +1,25 @@
+@media (max-width: 1200px) {
+    .contacts-sectiion {
+        height: auto;
+    }
+
+    .text {
+        min-width: 100%;
+    }
+
+    .contacts-section .text .phrase {
+        font-size: 18px;
+    }
+
+    .contacts-section .text .emale {
+        font-size: 18px;
+    }
+
+    .contacts-sectiion .fa-brands {
+        font-size: 15px;
+    }
+
+    footer {
+        letter-spacing: -1px;
+    }
+}

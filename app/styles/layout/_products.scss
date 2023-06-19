@@ -1,0 +1,13 @@
+@media (max-width: 1200px) {
+    .products-section {
+        height: auto;
+    }
+    
+    .cards {
+        flex-direction: column;
+    }
+
+    .cards .card {
+        margin: 15px 0;
+    }
+}
